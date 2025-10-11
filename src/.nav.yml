@@ -9,6 +9,7 @@ nav:
                 - ./Basic-Payload-Management/Payload-Placement/dot_rdata.md
                 - ./Basic-Payload-Management/Payload-Placement/dot_text.md
                 - ./Basic-Payload-Management/Payload-Placement/dot_rsrc.md
+                - ./Basic-Payload-Management/Payload-Placement/custom_section.md
           - ./Basic-Payload-Management/Payload-Obfuscation/
           - Payload Encryption:
                 - ./Basic-Payload-Management/Payload-Encryption/XOR.md
