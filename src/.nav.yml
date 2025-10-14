@@ -21,6 +21,7 @@ nav:
           - ./Advanced-Malware-Techniques/Process-Enumeration/
           - ./Advanced-Malware-Techniques/Payload-Staging/
           - ./Advanced-Malware-Techniques/Process-Injection/
+          - ./Advanced-Malware-Techniques/Syscalls/
           - ./Advanced-Malware-Techniques/Others/
     - Malware Examples:
           - Intro: ./Malware-Examples/intro.md
